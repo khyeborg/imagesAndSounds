@@ -6,9 +6,9 @@ let bulbasaurSound;
 let squirtleSound;
  
 function preload() {
-   charmanderImage = loadImage("images/charmander.png");
-   bulbasaurImage = loadImage("images/bulbasaur.png");
-   squirtleImage = loadImage("images/squirtle.png");
+   charmanderImage = loadImage("images/charmander2.png");
+   bulbasaurImage = loadImage("images/bulbasaur2.png");
+   squirtleImage = loadImage("images/squirtle2.png");
  
    charmanderSound = loadSound("sounds/charmander.mp3");
    bulbasaurSound = loadSound("sounds/bulbasaur.mp3");
